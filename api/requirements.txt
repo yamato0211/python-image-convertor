@@ -1,0 +1,10 @@
+# DO NOT include azure-functions-worker in this file
+# The Python Worker is managed by Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+azure-functions
+replicate
+git+https://github.com/alainrouillon/py-googletrans@feature/enhance-use-of-direct-api
+mecab-python3 
+python-dotenv
+ipadic
