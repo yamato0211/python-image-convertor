@@ -8,3 +8,4 @@ git+https://github.com/alainrouillon/py-googletrans@feature/enhance-use-of-direc
 mecab-python3 
 python-dotenv
 ipadic
+azure-data-tables
